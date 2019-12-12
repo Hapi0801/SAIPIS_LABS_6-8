@@ -1,0 +1,8 @@
+﻿<p><strong>СПИСОК ГРУППЫ 4</strong></p>
+  <ol>
+    <li>Скриган</li>
+    <li>Нагула</li>
+    <li>Скурат</li>
+    <li>Сосновик</li>
+  </ol>
+<input type='submit' value="Доп.Инфо" id = '4'/>

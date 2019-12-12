@@ -1,0 +1,8 @@
+﻿<p><strong>СПИСОК ГРУППЫ 2</strong></p>
+  <ol>
+    <li>Жанкевич</li>
+    <li>Столбов</li>
+    <li>Шпаковский</li>
+    <li>Грицкевич</li>
+  </ol>
+  <input type='submit' value="Доп.Инфо" id = '2'/>

@@ -1,0 +1,8 @@
+﻿<p><strong>СПИСОК ГРУППЫ 3</strong></p>
+  <ol>
+    <li>Ковальчук</li>
+    <li>Барковская</li>
+    <li>Новиков</li>
+    <li>Метельская</li>
+  </ol>
+  <input type='submit' value="Доп.Инфо" id = '3'/>

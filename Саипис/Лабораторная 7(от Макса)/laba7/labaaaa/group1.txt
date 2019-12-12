@@ -1,0 +1,8 @@
+﻿<p><strong>СПИСОК ГРУППЫ 1</strong></p>
+  <ol>
+    <li>Василевский</li>
+    <li>Мазуро</li>
+    <li>Василевский</li>
+    <li>Владислав</li>
+  </ol>
+  <input type='submit' value="Доп.Инфо" id = '1'/>
